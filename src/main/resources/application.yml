@@ -1,0 +1,11 @@
+es:
+  host: localhost
+  port: 9200
+  schema: https
+  username: admin
+  password: admin
+  maxConnectNum: 100
+  maxConnectPerRoute: 10
+  connectTimeOut: 1000
+  socketTimeOut: 30000
+  connectionRequestTime: 500

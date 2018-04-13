@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "es.host",
+    "type": "java.lang.String",
+    "description": "A description for 'es.host'"
+  },
+  {
+    "name": "es.port",
+    "type": "java.lang.String",
+    "description": "A description for 'es.port'"
+  },
+  {
+    "name": "es.schema",
+    "type": "java.lang.String",
+    "description": "A description for 'es.schema'"
+  }
+]}
